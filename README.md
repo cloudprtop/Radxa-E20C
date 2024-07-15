@@ -5,7 +5,11 @@
 ## 特性
  
 - 尺寸：75.8mm * 75.8mm * 27.2mm
- ![屏幕截图 2024-07-10 204237](https://github.com/user-attachments/assets/3e2b35ce-3dcb-4f2f-a154-a985b18406b9)
+- 图片
+- ![1](https://github.com/user-attachments/assets/730270a5-e522-40ed-8f5b-0531e7008f41)
+- ![2](https://github.com/user-attachments/assets/696af53b-e5a8-4631-a0c5-9393fbce0ad2)
+
+
 
 ## 使用说明
 | 序号 | 名称 | 规格 | 数量 |
